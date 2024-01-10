@@ -1,0 +1,10 @@
+## Interface: 100200
+
+## Title: AdiBags - Filter for TSM by Price
+## Notes: Adds Pricing Groups to AdiBags based on the selected price source.
+## Author: Ice
+## Version: v1.7
+
+## Dependencies: AdiBags, TradeSkillMaster
+
+AdiBags_TSM_Ice.lua
